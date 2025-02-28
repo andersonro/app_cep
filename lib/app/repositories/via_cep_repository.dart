@@ -1,7 +1,6 @@
 import 'package:app_cep/app/config/custom_exception.dart';
 import 'package:app_cep/app/models/via_cep_model.dart';
 import 'package:dio/dio.dart';
-import 'package:flutter/material.dart';
 import '../config/network_acess.dart';
 
 import 'dio_custom.dart';
