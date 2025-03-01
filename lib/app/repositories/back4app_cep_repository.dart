@@ -15,8 +15,8 @@ class Back4appCepRepository {
 
   Future<void> initBack4app() async {
     WidgetsFlutterBinding.ensureInitialized();
-    const keyApplicationId = '8zJAyqWnz84EamNn2srjH4waIEd64WO5K9kgYow4';
-    const keyClientKey = '2Ez2NwH7EjCtfT9gScrqUAltH2foqMoDeP7EJWG0';
+    const keyApplicationId = '8zWJAyqWnz84EamNn2srjH4waIEd64WO5K9kKgYow4';
+    const keyClientKey = '2Ez2NiwH7EjCtfT9gScrqUBAltH2foqMo0DeP7EJWG0';
     const keyParseServerUrl = 'https://parseapi.back4app.com';
 
     await Parse().initialize(
